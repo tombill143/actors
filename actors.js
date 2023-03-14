@@ -36,3 +36,6 @@ fetch("actors.json")
   .catch((error) => {
     console.error("Error fetching actor data:", error);
   });
+
+//my first project for MMD Third semester and it was hard
+//
